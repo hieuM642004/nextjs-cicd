@@ -1,6 +1,6 @@
 function F() {
   return (<>
-  <h1>hello wordsamda</h1>
+  <h1>Hello CI CD with Hieu</h1>
   </> );
 }
 
